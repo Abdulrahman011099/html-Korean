@@ -1,0 +1,25 @@
+img{
+    height: 200px;
+  width: 200px;
+}
+.color-title{
+    font-style: italic;
+}
+#red{
+    color: red;
+}
+#blue{
+color: blue;
+}
+#orange{
+    color: orange;
+}
+#yellow{
+    color: yellow;
+}
+#green{
+    color: green;
+}
+*{
+    text-align: center;
+}
